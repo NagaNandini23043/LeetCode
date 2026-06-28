@@ -9,16 +9,13 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
+        if head.next is None:
+            return None
         slow=head
         fast=head
         while fast and fast.next:
             pre=slow
             slow=slow.next
             fast=fast.next.next
-        if slow==fast:
-            head=None
-            return head
-        else:
-            pre.next=slow.next
-            slow.next=None
+        pre.next=slow.next
         return head
