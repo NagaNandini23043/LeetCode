@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/NagaNandini23043/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0724-find-pivot-index](https://github.com/NagaNandini23043/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0881-boats-to-save-people](https://github.com/NagaNandini23043/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/NagaNandini23043/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/NagaNandini23043/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0881-boats-to-save-people](https://github.com/NagaNandini23043/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NagaNandini23043/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -66,4 +68,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/NagaNandini23043/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/NagaNandini23043/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
