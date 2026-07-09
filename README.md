@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/NagaNandini23043/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/NagaNandini23043/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0066-plus-one](https://github.com/NagaNandini23043/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0724-find-pivot-index](https://github.com/NagaNandini23043/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NagaNandini23043/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/NagaNandini23043/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0066-plus-one](https://github.com/NagaNandini23043/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
 ## String
 | Problem Name | Difficulty |
