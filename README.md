@@ -32,6 +32,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NagaNandini23043/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NagaNandini23043/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/NagaNandini23043/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/NagaNandini23043/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NagaNandini23043/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/NagaNandini23043/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/NagaNandini23043/LeetCode/tree/main/0046-permutations/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
