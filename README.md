@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NagaNandini23043/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NagaNandini23043/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/NagaNandini23043/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NagaNandini23043/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NagaNandini23043/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -84,6 +86,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NagaNandini23043/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0046-permutations](https://github.com/NagaNandini23043/LeetCode/tree/main/0046-permutations/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
