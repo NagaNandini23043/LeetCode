@@ -93,6 +93,7 @@
 | [0022-generate-parentheses](https://github.com/NagaNandini23043/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/NagaNandini23043/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/NagaNandini23043/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/NagaNandini23043/LeetCode/tree/main/0077-combinations/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
