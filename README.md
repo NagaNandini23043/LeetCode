@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/NagaNandini23043/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/NagaNandini23043/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/NagaNandini23043/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0724-find-pivot-index](https://github.com/NagaNandini23043/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NagaNandini23043/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
@@ -94,10 +95,12 @@
 | [0039-combination-sum](https://github.com/NagaNandini23043/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/NagaNandini23043/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/NagaNandini23043/LeetCode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/NagaNandini23043/LeetCode/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/NagaNandini23043/LeetCode/tree/main/0078-subsets/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
