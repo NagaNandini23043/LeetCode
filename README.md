@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/NagaNandini23043/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/NagaNandini23043/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0039-combination-sum](https://github.com/NagaNandini23043/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/NagaNandini23043/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/NagaNandini23043/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/NagaNandini23043/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -93,6 +94,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NagaNandini23043/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/NagaNandini23043/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/NagaNandini23043/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/NagaNandini23043/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/NagaNandini23043/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/NagaNandini23043/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/NagaNandini23043/LeetCode/tree/main/0078-subsets/) | Medium |
