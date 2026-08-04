@@ -32,6 +32,7 @@
 | [0066-plus-one](https://github.com/NagaNandini23043/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/NagaNandini23043/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@
 | [0022-generate-parentheses](https://github.com/NagaNandini23043/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/NagaNandini23043/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +126,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/NagaNandini23043/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
