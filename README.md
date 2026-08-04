@@ -31,6 +31,7 @@
 | [0007-reverse-integer](https://github.com/NagaNandini23043/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/NagaNandini23043/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/NagaNandini23043/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +120,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/NagaNandini23043/LeetCode/tree/main/0079-word-search/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
