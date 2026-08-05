@@ -5,12 +5,13 @@ class Solution(object):
         :rtype: int
         """
         n=len(cost)
-        minCost=[0]*(n)
 
-        minCost[0]=cost[0]
-        minCost[1]=cost[1]
+        prev2=cost[0]
+        prev1=cost[1]
 
         for i in range(2, n):
-            minCost[i]=min(minCost[i-1],minCost[i-2])+cost[i]
+            current=min(prev1,prev2)+cost[i]
+            prev2=prev1
+            prev1=current
         
-        return min(minCost[n-1], minCost[n-2])
+        return min(prev1,prev2)
