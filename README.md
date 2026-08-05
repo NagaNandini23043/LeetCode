@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/NagaNandini23043/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/NagaNandini23043/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0724-find-pivot-index](https://github.com/NagaNandini23043/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NagaNandini23043/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [0022-generate-parentheses](https://github.com/NagaNandini23043/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NagaNandini23043/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/NagaNandini23043/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
