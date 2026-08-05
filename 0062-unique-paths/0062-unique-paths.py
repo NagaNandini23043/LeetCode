@@ -5,17 +5,11 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        paths=[[0]*n for _ in range(m)]
-
-        for j in range(n):
-            paths[0][j]=1
-        
-        for i in range(m):
-            paths[i][0]=1
+        paths=[1]*n 
         
         for i in range(1,m):
             for j in range(1,n):
-                paths[i][j]=paths[i-1][j]+paths[i][j-1]
+                paths[j]=paths[j]+paths[j-1]
         
 
-        return paths[m-1][n-1]
+        return paths[n-1]
