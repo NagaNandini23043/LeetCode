@@ -37,6 +37,7 @@
 | [0062-unique-paths](https://github.com/NagaNandini23043/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/NagaNandini23043/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/NagaNandini23043/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/NagaNandini23043/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## String
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NagaNandini23043/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/NagaNandini23043/LeetCode/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +160,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NagaNandini23043/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/NagaNandini23043/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
