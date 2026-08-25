@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NagaNandini23043/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/NagaNandini23043/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NagaNandini23043/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/NagaNandini23043/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Prefix Sum
@@ -31,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/NagaNandini23043/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/NagaNandini23043/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/NagaNandini23043/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/NagaNandini23043/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -40,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NagaNandini23043/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0013-roman-to-integer](https://github.com/NagaNandini23043/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NagaNandini23043/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/NagaNandini23043/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
