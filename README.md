@@ -40,6 +40,7 @@
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/NagaNandini23043/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0231-power-of-two](https://github.com/NagaNandini23043/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/NagaNandini23043/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/NagaNandini23043/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/NagaNandini23043/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/NagaNandini23043/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +133,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/NagaNandini23043/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/NagaNandini23043/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0231-power-of-two](https://github.com/NagaNandini23043/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
