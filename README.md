@@ -69,6 +69,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NagaNandini23043/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/NagaNandini23043/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/NagaNandini23043/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/NagaNandini23043/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -78,6 +79,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NagaNandini23043/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/NagaNandini23043/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/NagaNandini23043/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/NagaNandini23043/LeetCode/tree/main/0231-power-of-two/) | Easy |
