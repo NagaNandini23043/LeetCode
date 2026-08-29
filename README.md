@@ -149,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/NagaNandini23043/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0100-same-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -202,13 +203,16 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
