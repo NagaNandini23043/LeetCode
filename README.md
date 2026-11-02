@@ -16,6 +16,7 @@
 | [0079-word-search](https://github.com/NagaNandini23043/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/NagaNandini23043/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/NagaNandini23043/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0695-max-area-of-island](https://github.com/NagaNandini23043/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/NagaNandini23043/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/NagaNandini23043/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NagaNandini23043/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -153,11 +154,13 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NagaNandini23043/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0695-max-area-of-island](https://github.com/NagaNandini23043/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/NagaNandini23043/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/NagaNandini23043/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0695-max-area-of-island](https://github.com/NagaNandini23043/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +221,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/NagaNandini23043/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NagaNandini23043/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0695-max-area-of-island](https://github.com/NagaNandini23043/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,4 +235,8 @@
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NagaNandini23043/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/NagaNandini23043/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/NagaNandini23043/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
